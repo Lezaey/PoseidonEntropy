@@ -13,5 +13,10 @@ Security-focused password generator with entropy analysis, real-time strength me
 - bcrypt
 
 ## 📦 Installation
+
+```bash
+pip install -r requirements.txt
+```
+
 ```bash
 python poseidon.py
