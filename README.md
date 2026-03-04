@@ -14,5 +14,4 @@ Security-focused password generator with entropy analysis, real-time strength me
 
 ## 📦 Installation
 ```bash
-# exemplo
-npm install
+python poseidon.py
